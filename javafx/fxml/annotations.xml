@@ -1,0 +1,5 @@
+<root>
+    <item name='javafx.fxml.FXMLLoader T load(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
