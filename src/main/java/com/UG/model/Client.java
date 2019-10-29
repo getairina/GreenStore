@@ -20,12 +20,12 @@ public class Client {
     public Client(int id, String firstName, String lastName, String eMail,
                   String password, String phoneNumber, String userName) {
         this.id = id;
-        FirstName = firstName;
-        LastName = lastName;
+        this.FirstName = firstName;
+        this.LastName = lastName;
         this.eMail = eMail;
         this.password = password;
-        PhoneNumber = phoneNumber;
-        UserName = userName;
+        this.PhoneNumber = phoneNumber;
+        this.UserName = userName;
     }
 
     public int getId() {
